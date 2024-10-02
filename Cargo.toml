@@ -4,8 +4,8 @@ version = "1.3.2"
 authors = ["rustdesk <info@rustdesk.com>"]
 edition = "2021"
 build= "build.rs"
-description = "RustDesk Remote Desktop"
-default-run = "rustdesk"
+description = "协助工具"
+default-run = "远程协助"
 rust-version = "1.75"
 
 [lib]
